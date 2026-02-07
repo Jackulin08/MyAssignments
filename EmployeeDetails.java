@@ -2,11 +2,12 @@ package assgn1.day1;
 
 public class EmployeeDetails {
 
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		String name="John Doe";
-		int age=30;
+		String name= "JohnDoe";
+		int age=30; 
 		float salary=55000.75f;
 		char gender='M';
 		boolean acceptTerms=true;
